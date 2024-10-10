@@ -1,3 +1,5 @@
+<div style="width:100%px;height:50%px;line-height:3em;overflow:scroll;padding:5px;" markdown="1">
+
 # The Whispering Woods Bandit Camp
 
 ## Camp Overview
@@ -179,4 +181,6 @@ A well-organized hideout housing 15-20 bandits, located in a forest clearing abo
 - Murmur of conversations
 - Weapon practice sounds
 - Forest bird calls
-
+  
+</div>
+    
