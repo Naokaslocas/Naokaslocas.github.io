@@ -1,4 +1,5 @@
 [Index](index.md)
+
 # Alaric Vale
 ## Level 3 Bard (College of Swords) / Royal Investigator
 
