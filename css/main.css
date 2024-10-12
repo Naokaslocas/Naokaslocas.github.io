@@ -10,3 +10,7 @@
 #toc:hover #full{
   display: block; /* Show it on hover */
 }
+
+#contents:hover div {
+    display: block;
+  }

@@ -1,10 +1,4 @@
 
-<style>
-  #contents:hover div {
-    display: block;
-  }
-</style>
-
 <div id="toc">
     hello
     <div id="full">hey there<br />This is the full TOC</div>
@@ -172,6 +166,3 @@
   - Trade goods worth 50-200gp
   - Potential magic item (potion of healing)
   - Contacts for future trade opportunities
-
-  </section>
-</body>
