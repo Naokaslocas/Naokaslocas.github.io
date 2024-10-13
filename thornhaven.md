@@ -7,12 +7,10 @@
 
 <div id="contents" style="position:fixed;width: 200px;right:0;top:0">
   Floating table of contents
-  <div id="expanded" style="display: none">
-    blahblahblah
-    <a href="#thornhaven-trading-post">title</a>
-    more links
-    more links
-  </div>
+  blahblahblah
+  <a href="#thornhaven-trading-post">title</a>
+  more links
+  more links
 </div>
 
   <div id="title"></div>
